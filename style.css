@@ -9,14 +9,14 @@
 }
 
 .font {
-    color: rgba(255, 255, 255, 0.836);
+    color: rgb(255, 255, 255);
     font-family: "Jersey";
     text-align: center;
-    text-shadow: 2px 2px 0px rgb(219, 2, 2);
+    text-shadow: 2px 2px 0px rgb(0, 0, 0);
 }
 
 .wrapper{
-    background-image: url(./img/bgc1.png);
+    background-image: url(./img/bgc2.jpg);
     width: 100vw;
     height: 100vh;
     background-size: cover;
